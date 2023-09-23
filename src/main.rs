@@ -1,4 +1,4 @@
-#![allow(unused,dead_code, non_snake_case)]
+#![allow(unused,dead_code)]
 fn main() { 
     println!("Hello, world!");
 }
